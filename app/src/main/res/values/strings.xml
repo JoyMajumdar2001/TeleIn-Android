@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TeleIn</string>
+    <string name="login_with_telegram">Login with Telegram</string>
+    <string name="login">Login</string>
+    <string name="verifying">Verifying...</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
+</resources>
